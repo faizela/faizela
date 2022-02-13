@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Feisal Ahmed
-- 👀 I’m interested in Web development, Automation and Cybersecurity.
-- 🌱 I’m currently learning Javascript, Python and Java
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning Javascript, Python and c++
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me : email --> feisala132@gmail.com
 
