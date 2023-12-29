@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Feisal Ahmed
+- 👋 Hi, I’m Zahi
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Full stack development and sometimes c++, python in my spare time.
 - 💞️ I’m looking to collaborate on Web development projects
